@@ -1,0 +1,7 @@
+public static void main{
+	[C:system]
+	test
+	hi professor
+	strings
+
+}
